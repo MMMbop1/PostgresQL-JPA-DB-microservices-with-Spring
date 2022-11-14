@@ -2,7 +2,7 @@
 
 This project is running on spring with the dependencies Spring Web, Spring Data JPA and PostgresQL.
 
-Before you start make sure you configurate the application.resources to your database.
+Before you start make sure you configurate the application.properties to connect to your database.
 
 The current database is running on a super easy table with title and description for Todo.
 
